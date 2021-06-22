@@ -1,0 +1,4 @@
+/home/Code/Cmake/demo5/build/CMakeFiles/rebuild_cache.dir
+/home/Code/Cmake/demo5/build/CMakeFiles/edit_cache.dir
+/home/Code/Cmake/demo5/build/CMakeFiles/main.dir
+/home/Code/Cmake/demo5/build/CMakeFiles/TEST_LIBRARY.dir
