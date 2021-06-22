@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main_main.dir/main.cpp.o  -o main_main  ../Test/libmain_test.a 

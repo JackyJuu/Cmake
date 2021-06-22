@@ -1,0 +1,8 @@
+/home/Code/Cmake/demo8/build/CMakeFiles/rebuild_cache.dir
+/home/Code/Cmake/demo8/build/CMakeFiles/edit_cache.dir
+/home/Code/Cmake/demo8/build/src/Main/CMakeFiles/rebuild_cache.dir
+/home/Code/Cmake/demo8/build/src/Main/CMakeFiles/edit_cache.dir
+/home/Code/Cmake/demo8/build/src/Main/CMakeFiles/main.dir
+/home/Code/Cmake/demo8/build/src/Test/CMakeFiles/edit_cache.dir
+/home/Code/Cmake/demo8/build/src/Test/CMakeFiles/rebuild_cache.dir
+/home/Code/Cmake/demo8/build/src/Test/CMakeFiles/main_test.dir
