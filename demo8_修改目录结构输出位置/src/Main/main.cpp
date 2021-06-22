@@ -14,7 +14,7 @@ int main()
     test test1;
     test1.Test_Print();
     cin>>aa;
-    cout<<"Your Have Print!!! "<<aa<<endl;
+    cout<<"Your Have Print "<<aa<<endl;
   //  cout<<
   #ifdef HappyFirst
   cout<<"Now You Use HappyFirst"<<endl;
